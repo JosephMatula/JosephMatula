@@ -1,16 +1,34 @@
-## Hi there 👋
+### Bonjour, je suis J. Matula 👋
 
-<!--
-**JosephMatula/JosephMatula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur full-stack & administrateur systèmes Linux. Je conçois des logiciels du
+serveur à l'application : API backend, clients desktop/mobiles, et l'infrastructure
+Linux qui fait tourner le tout.
 
-Here are some ideas to get you started:
+🔗 Portfolio & projets détaillés : [jmatula.fr](https://jmatula.fr)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📩 Contact : gautier76240@gmail.com
+
+💼 Disponible en freelance
+
+---
+
+#### Ce que je fais
+
+- **Backend & API** : Python, FastAPI, PostgreSQL, JWT/argon2, WebSocket, i18n,
+génération documentaire (PDF/DOCX/XLSX)
+- **Applications desktop** : PySide6/Qt, architecture MVVM, asyncio, packaging multi-OS
+- **Mobile & multi-plateforme** : Flutter/Dart, Riverpod, stockage sécurisé (Android · Linux · Windows)
+- **Administration Linux & DevOps** : nginx, systemd, fail2ban, WireGuard, déploiement automatisé, sauvegardes chiffrées
+- **Qualité logicielle** : typage strict (pyright), lint (ruff), tests (pytest), Git
+
+#### Projets en production
+
+- **Calinoumi** : plateforme ERP e-commerce complète (catalogue, ventes, facturation, comptabilité) avec trois clients sur un même socle : API web, logiciel desktop, application mobile 
+- **Infrastructure serveur** : chaîne complète d'exploitation Linux auto-hébergée, versionnée et reproductible
+- **Password Manager** : gestionnaire de mots de passe auto-hébergé, coffre chiffré, multi-plateforme
+
+---
+
+🛠️ **Stack** : Python · Dart · Rust · C++ · FastAPI · Flutter · PySide6 · PostgreSQL · Linux · nginx
+
+<sub>Site auto-hébergé sur infrastructure Linux personnelle.</sub>
